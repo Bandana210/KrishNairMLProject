@@ -1,0 +1,7 @@
+# contains all the package i require for project
+
+pandas
+numpy
+seaborn
+
+-e .
